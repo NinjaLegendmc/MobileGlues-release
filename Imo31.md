@@ -18,8 +18,6 @@
 | BSL | Iris 1.8.5 | ✅(8.4, all presets) |
 | Chocapic13 V6 Lite | Iris 1.8.5 | ✅ |
 | MakeUp-UltraFast | Iris 1.8.5 | ✅(9.1c, all presets) |
-| iterationT | Iris 1.8.5 | ✅(3.2.0, all presets) |
-| SEUS PTGI HRR3 | Iris 1.8.5 | ✅<sup>1</sup> |
 | Complementary Reimagined & unbound | Iris 1.8.5 | ✅<sup>1</sup> |
 ## Notes
 
