@@ -19,3 +19,4 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 | Oppo A9 (PCAM10) | MediaTek Helio P70 (MT6771T) | Mali-G72 MP3 | Android 11 | ANGLE | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | ✅(8.4.02.2, all presets) | *️⃣(V6 Lite, all presets) | ✅(9.1c, high) | *️⃣(v1.1,黑色色块闪烁) | *️⃣(3.2.0, 黑屏) | ❌<sup>*</sup> | [PCAM10.md](./DeviceReports/PCAM10.md) |
 
 <div>
+| vivo y100a | Snapdragon 695 | Adreno 619 | Android 15 | ? | 1.1.0.1 | 1.21.4 | Iris 1.8.8 | ✅(8.4.02.2, all presets) | *️⃣(V6 Lite, all presets) | ✅(9.1c, high) | *️⃣(v1.1,黑色色块闪烁) | *️⃣(3.2.0, 黑屏) | ❌<sup>*</sup> | [PCAM10.md](./DeviceReports/PCAM10.md) |
